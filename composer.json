@@ -1,0 +1,12 @@
+{
+    "name": "cuacha07/komvac_template_modules",
+    "description": "just a test",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "repositories": [
+        {            
+            "type": "git",
+            "url": "https://github.com/Cuacha07/komvac_template_modules"
+        }
+    ]
+}
