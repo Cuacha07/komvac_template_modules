@@ -16,6 +16,8 @@ var app = new Vue ({
 
     el: "#app",
 
+    mixins: [helperFunctions, notifications],
+
     data: {
 
     },

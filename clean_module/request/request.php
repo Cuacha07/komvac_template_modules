@@ -4,7 +4,7 @@ namespace App\Http\Requests\CMS;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-class 3XlcsXRequest extends FormRequest
+class CMS1XlcpXRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.

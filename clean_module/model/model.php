@@ -4,7 +4,7 @@ namespace App\Models\CMS;
 
 use Illuminate\Database\Eloquent\Model;
 
-class 3XlcsX extends Model
+class CMS3XlcsX extends Model
 {
      /**
      * The table associated with the model.

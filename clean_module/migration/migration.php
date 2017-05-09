@@ -4,7 +4,7 @@ use Illuminate\Support\Facades\Schema;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Database\Migrations\Migration;
 
-class CMS1XlcpX extends Migration
+class CreateCMS1XlcpX extends Migration
 {
     /**
      * Run the migrations.
