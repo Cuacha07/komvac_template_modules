@@ -7,5 +7,5 @@
 @endsection
 
 @push('scripts')
-    @include('cms.2XpX.scripts')
+    @include('cms.partials.2XpX.scripts')
 @endpush
